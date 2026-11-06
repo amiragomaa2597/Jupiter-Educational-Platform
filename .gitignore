@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+!.env.example
+secrets/
+**/appsettings.*.json
+!**/appsettings.example.json
+node_modules/
+dist/
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.idea/
